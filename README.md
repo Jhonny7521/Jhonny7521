@@ -39,10 +39,10 @@
 <br/>
 
 <h3 align="left"> 📊 GitHub Stats: </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny7521&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="banner-img">
-<img src="https://github-readme-stats.vercel.app/api?username=Jhonny7521&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="banner-img">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonny7521&theme=chartreuse-dark&hide_border=true" alt="banner-img">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny7521&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="ankit404butfound" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jhonny7521&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="banner-img">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonny7521&theme=highcontrast&hide_border=true" alt="banner-img">
 
 <br/>
 
@@ -50,5 +50,5 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Jhonny7521&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
-<h3 align="center"> :fire: Users who visit me :fire: </h3>
+<h3 align="center"> ⭐🔥 Users who visit me 🔥⭐ </h3>
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/Jhonny7521/count.svg" /></p>
