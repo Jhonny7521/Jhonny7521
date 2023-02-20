@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/jhjjhonny anthony quiliche llaxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhjjhonny anthony quiliche llaxa" height="30" width="40" /></a>
 <a href="https://fb.com/jhonny quiliche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonny quiliche" height="30" width="40" /></a>
 <a href="https://instagram.com/@jhonny_q49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jhonny_q49" height="30" width="40" /></a>
-<a href="[https://instagram.com/@jhonny_q49](https://jhonny7521-portfolio.netlify.app)" target="blank"><img align="center" src="https://i.ibb.co/s96WQLz/portfolio-web-icon.png" alt="portfolio" height="40" width="40" /></a>
+<a href="https://jhonny7521-portfolio.netlify.app" target="blank"><img align="center" src="https://i.ibb.co/s96WQLz/portfolio-web-icon.png" alt="portfolio" height="40" width="40" /></a>
 </p>
 <br>
 
